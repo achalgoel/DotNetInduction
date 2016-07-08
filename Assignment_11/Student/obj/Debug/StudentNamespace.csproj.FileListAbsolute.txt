@@ -1,0 +1,5 @@
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment8\Student\obj\Debug\StudentNamespace.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment8\Student\bin\Debug\Student.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment8\Student\bin\Debug\Student.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment8\Student\obj\Debug\Student.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment8\Student\obj\Debug\Student.pdb
