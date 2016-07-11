@@ -4,3 +4,13 @@ c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_
 c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\obj\Debug\Assignment_9.csprojResolveAssemblyReference.cache
 c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\obj\Debug\Assignment_9.exe
 c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\obj\Debug\Assignment_9.pdb
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\ClassLibrary1.dll
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\ClassLibrary2.dll
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\ClassLibrary1.pdb
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\Bike.cs.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\CarNameSpace.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\TruckNameSpace.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\Bike.cs.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\CarNameSpace.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Assignment_9\bin\Debug\TruckNameSpace.pdb

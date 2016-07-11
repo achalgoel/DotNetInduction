@@ -1,0 +1,7 @@
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\bin\Debug\TruckNameSpace.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\bin\Debug\TruckNameSpace.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\bin\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\obj\Debug\TruckNameSpace.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\obj\Debug\TruckNameSpace.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\TruckNameSpace\obj\Debug\TruckNameSpace.pdb
