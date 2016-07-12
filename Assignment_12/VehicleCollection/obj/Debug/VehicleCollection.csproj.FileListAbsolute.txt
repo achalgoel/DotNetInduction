@@ -1,0 +1,7 @@
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\bin\Debug\VehicleCollection.dll
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\bin\Debug\VehicleCollection.pdb
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\bin\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.dll
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.pdb

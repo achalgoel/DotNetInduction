@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using VehicleNameSpace;
+using VehicleCollection;
 
 namespace Assignment_12
 {
@@ -63,15 +64,53 @@ namespace Assignment_12
 
             Vehicle v2 = new Vehicle()
             {
-                Make = "Mercedes",
+                Make = "Lambourghini",
                 Model = "GT599",
-                YearOfManufacture = 2014,
-                Speed = 400
+                YearOfManufacture = 2004,
+                Speed = 450
             };
 
-            Console.WriteLine(v2.Equals(v1));
+            Vehicle v3 = new Vehicle()
+            {
+                Make = "Ferrari",
+                Model = "Brrrrrrr",
+                YearOfManufacture = 1999,
+                Speed = 300
+            };
+
+            Vehicle v4 = new Vehicle()
+            {
+                Make = "Mercedes",
+                Model = "FS250",
+                YearOfManufacture = 2015,
+                Speed = 40
+            };
+
+            Vehicle v5 = new Vehicle()
+            {
+                Make = "Ford",
+                Model = "Mustang",
+                YearOfManufacture = 1970,
+                Speed = 200
+            };
+
+
+            Console.WriteLine(v2.Equals(v1));                      
             Console.ReadKey();
-            
+
+
+            //VehicleCollection.VehicleCollection list = new VehicleCollection.VehicleCollection();
+
+            //list.Add(v1);
+            //list.Add(v2);
+            //list.Add(v3);
+            //list.Add(v4);
+            //list.Add(v5);
+
+            //foreach (Vehicle item in list)
+            //{
+            //    item.DisplayDetails();
+            //}
         }
     }
 }

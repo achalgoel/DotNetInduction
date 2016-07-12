@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2BF6F88-1C49-4C20-B2B2-C866AD2CFB06}</ProjectGuid>
+    <ProjectGuid>{0E277120-4854-4A70-AD2C-E732B8BB3A3E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Assignment_12</RootNamespace>
-    <AssemblyName>Assignment_12</AssemblyName>
+    <RootNamespace>Assignment13</RootNamespace>
+    <AssemblyName>Assignment13</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -52,9 +52,9 @@
       <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
       <Name>VehicleNameSpace</Name>
     </ProjectReference>
-    <ProjectReference Include="..\VehicleCollection\VehicleCollection.csproj">
-      <Project>{c7499e19-7394-4a55-896e-2a01fe07e2bc}</Project>
-      <Name>VehicleCollection</Name>
+    <ProjectReference Include="..\VehicleArrayNameSpace\VehicleArrayNameSpace.csproj">
+      <Project>{ee90ff5b-6428-4653-b8e6-f200515e469e}</Project>
+      <Name>VehicleArrayNameSpace</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
