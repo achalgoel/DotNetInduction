@@ -35,5 +35,31 @@ namespace VehicleArrayNameSpace
             return GetEnumerator();
         }
 
+        public Vehicle this[int index]                       //Indexers
+        {
+            get
+            {
+                Vehicle tmp;
+
+                if (index >= 0 && index <= count - 1)
+                {
+                    tmp = vehiclelist[index];
+                }
+                else
+                {
+                    tmp = null;
+                }
+
+                return (tmp);
+            }
+            set
+            {
+                if (index >= 0 && index <= count - 1)
+                {
+                    vehiclelist[index] = value;
+                }
+            }
+        }
+
     }
 }

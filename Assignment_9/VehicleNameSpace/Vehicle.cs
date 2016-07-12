@@ -121,5 +121,11 @@ namespace VehicleNameSpace
             Console.WriteLine("Speed : " + this._speed);
         }
 
+        public override string ToString()
+        {
+
+            return this.Make;
+
+        }
     }
 }
