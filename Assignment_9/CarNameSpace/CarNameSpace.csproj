@@ -43,7 +43,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary2\VehicleNameSpace.csproj">
+    <ProjectReference Include="..\VehicleNameSpace\VehicleNameSpace.csproj">
       <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
       <Name>VehicleNameSpace</Name>
     </ProjectReference>

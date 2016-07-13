@@ -4,3 +4,10 @@ C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\ClassLibrar
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\bin\Debug\ClassLibrary1.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\bin\Debug\ClassLibrary1.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\bin\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\obj\Debug\BicycleNameSpace.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\obj\Debug\ClassLibrary1.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BicycleNameSpace\obj\Debug\ClassLibrary1.pdb

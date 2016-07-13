@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.ObjectModel;
+
 
 namespace VehicleNameSpace
 {
-    public class Vehicle
+    public class Vehicle : System.Object, IComparable<Vehicle>,IEquatable<Vehicle>,IComparer<Vehicle>
     {
         private string _make;
         private int _year_of_manufacture;
@@ -21,10 +23,7 @@ namespace VehicleNameSpace
             this._speed = speed;
         }
 
-        public Vehicle()
-        {
-
-        }
+        public Vehicle() { }
 
         public void Accelerate(int acceleration, int time)
         {
@@ -115,17 +114,73 @@ namespace VehicleNameSpace
 
         public void DisplayDetails()
         {
+            Console.WriteLine();
             Console.WriteLine("Make : " + this._make);
             Console.WriteLine("Year of manufacture ; " + this._year_of_manufacture);
             Console.WriteLine("Model no. : " + this._model);
             Console.WriteLine("Speed : " + this._speed);
         }
 
-        public override string ToString()
+        public int CompareTo(Vehicle other)                   //Implementing IComparable
+        {
+            if (
+                this._year_of_manufacture > other._year_of_manufacture 
+                //|| this.Make != other.Make 
+                //|| this.Model != other.Model
+                )
+                return 1;
+            else if (
+                this._year_of_manufacture < other._year_of_manufacture 
+                //|| this.Make != other.Make 
+                //|| this.Model != other.Model
+                )
+                return -1;
+            else
+                return 0;
+        }
+
+        public override bool Equals(System.Object vehicle)          //Override Equals (method in object class)
+        {
+            Vehicle obj = (Vehicle)vehicle;
+
+            if (obj == null)
+                return false;
+            else if (!(obj is Vehicle))
+                return false;
+            else
+                return
+                    (
+                    obj.Make == this.Make &&
+                    obj.Model == this.Model &&
+                    obj.Speed == this.Speed &&
+                    obj.YearOfManufacture == this.YearOfManufacture
+                    );
+        }
+
+
+
+        public bool Equals(Vehicle vehicle)            // Implementation of IEquitable
+        {
+            Vehicle obj = (Vehicle)vehicle;
+
+            if (obj == null)
+                return false;
+            else if (!(obj is Vehicle))
+                return false;
+            else
+                return
+                    (
+                    obj.Make == this.Make &&
+                    obj.Model == this.Model &&
+                    obj.Speed == this.Speed &&
+                    obj.YearOfManufacture == this.YearOfManufacture
+                    );
+        }
+    
+        public int Compare(Vehicle x, Vehicle y)
         {
 
-            return this.Make;
-
+            return x.CompareTo(y);
         }
-    }
 }
+ }

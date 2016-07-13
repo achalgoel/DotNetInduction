@@ -29,6 +29,7 @@ namespace TruckNameSpace
             base.DisplayDetails();
             Console.WriteLine("No of tyres : " + this._no_of_tyres);
             Console.WriteLine("Weight capacity (in tonnes) : " + this._weight_capacity);
+            
         }
 
     }

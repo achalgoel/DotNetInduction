@@ -18,3 +18,6 @@ D:\AchalGoelProjects\DotNetInduction\Assignment13\Assignment13\bin\Debug\Vehicle
 D:\AchalGoelProjects\DotNetInduction\Assignment13\Assignment13\bin\Debug\ClassLibrary2.pdb
 D:\AchalGoelProjects\DotNetInduction\Assignment13\Assignment13\bin\Debug\VehicleArrayNameSpace.pdb
 D:\AchalGoelProjects\DotNetInduction\Assignment13\Assignment13\obj\Debug\Assignment13.csprojResolveAssemblyReference.cache
+C:\Users\achal.goel\DotNetInduction\Assignment_13\Assignment13\bin\Debug\Assignment13.exe.config
+C:\Users\achal.goel\DotNetInduction\Assignment_13\Assignment13\obj\Debug\Assignment13.exe
+C:\Users\achal.goel\DotNetInduction\Assignment_13\Assignment13\obj\Debug\Assignment13.pdb

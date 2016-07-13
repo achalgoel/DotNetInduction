@@ -5,10 +5,3 @@ C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCol
 C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.csprojResolveAssemblyReference.cache
 C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.dll
 C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.pdb
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\bin\Debug\VehicleCollection.dll
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\bin\Debug\VehicleCollection.pdb
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\bin\Debug\ClassLibrary2.dll
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\bin\Debug\ClassLibrary2.pdb
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.csprojResolveAssemblyReference.cache
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.dll
-D:\AchalGoelProjects\DotNetInduction\Assignment_12\VehicleCollection\obj\Debug\VehicleCollection.pdb

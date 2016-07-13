@@ -48,7 +48,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Bike.cs\BikeNameSpace.csproj">
+    <ProjectReference Include="..\BicycleNameSpace\BicycleNameSpace.csproj">
+      <Project>{6a52ee9d-ed93-466a-b616-d0bffa14f182}</Project>
+      <Name>BicycleNameSpace</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BikeNameSpace\BikeNameSpace.csproj">
       <Project>{38818006-3e5c-465d-80de-28dd033b44d3}</Project>
       <Name>BikeNameSpace</Name>
     </ProjectReference>
@@ -56,17 +60,13 @@
       <Project>{9929436b-51b5-4149-b029-670505d6bd9c}</Project>
       <Name>CarNameSpace</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary1\BicycleNameSpace.csproj">
-      <Project>{6a52ee9d-ed93-466a-b616-d0bffa14f182}</Project>
-      <Name>BicycleNameSpace</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary2\VehicleNameSpace.csproj">
-      <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
-      <Name>VehicleNameSpace</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TruckNameSpace\TruckNameSpace.csproj">
       <Project>{db1261ec-e67a-4169-b828-64f7db2c6031}</Project>
       <Name>TruckNameSpace</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VehicleNameSpace\VehicleNameSpace.csproj">
+      <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
+      <Name>VehicleNameSpace</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

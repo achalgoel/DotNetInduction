@@ -5,3 +5,10 @@ C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Bike.cs\bin
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Bike.cs\obj\Debug\BikeNameSpace.csprojResolveAssemblyReference.cache
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Bike.cs\obj\Debug\Bike.cs.dll
 C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\Bike.cs\obj\Debug\Bike.cs.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\bin\Debug\Bike.cs.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\bin\Debug\Bike.cs.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\bin\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\obj\Debug\BikeNameSpace.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\obj\Debug\Bike.cs.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\BikeNameSpace\obj\Debug\Bike.cs.pdb

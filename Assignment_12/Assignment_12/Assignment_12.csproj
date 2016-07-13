@@ -21,7 +21,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,13 +48,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Assignment_9\VehicleNameSpace\VehicleNameSpace.csproj">
-      <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
-      <Name>VehicleNameSpace</Name>
-    </ProjectReference>
     <ProjectReference Include="..\VehicleCollection\VehicleCollection.csproj">
       <Project>{c7499e19-7394-4a55-896e-2a01fe07e2bc}</Project>
       <Name>VehicleCollection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VehicleNameSpace\VehicleNameSpace.csproj">
+      <Project>{6287bfb6-87f2-40eb-aa2c-d8e40e137c60}</Project>
+      <Name>VehicleNameSpace</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
