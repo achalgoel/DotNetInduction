@@ -1,0 +1,5 @@
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\VehicleNameSpace\bin\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\VehicleNameSpace\bin\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\VehicleNameSpace\obj\Debug\ClassLibrary2.dll
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\VehicleNameSpace\obj\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\VehicleNameSpace\obj\Debug\VehicleNameSpace.csprojResolveAssemblyReference.cache

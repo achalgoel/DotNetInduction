@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Items>
+  <MenuItem NavigateUrl="Home.aspx" Text="Home">
+    <MenuItem NavigateUrl="University.aspx" Text="University">
+      <MenuItem NavigateUrl="techNews.aspx" Text="Tech News"/>
+      <MenuItem NavigateUrl="extraCurr.aspx" Text="Extra Curriculars"/>
+      </MenuItem>
+      </MenuItem>
+  <MenuItem NavigateUrl="AboutUs.aspx" Text="About Us"/>
+  <MenuItem NavigateUrl="ContactUs.aspx" Text="Contact Us"/>
+  </Items>

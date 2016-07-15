@@ -1,0 +1,6 @@
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\bin\Debug\School_Student.dll
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\bin\Debug\School_Student.pdb
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\bin\Debug\Student.dll
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\bin\Debug\Student.pdb
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\obj\Debug\School_Student.dll
+C:\Users\achal.goel\DotNetInduction\Assignment_11\School_Student\obj\Debug\School_Student.pdb

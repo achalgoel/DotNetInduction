@@ -1,0 +1,5 @@
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\sysadmin\documents\visual studio 2012\Projects\Assignment_9\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\sysadmin\Documents\Visual Studio 2012\Projects\Assignment_9\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
